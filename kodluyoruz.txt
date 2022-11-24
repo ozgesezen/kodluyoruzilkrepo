@@ -3,3 +3,4 @@ git 4. gun ozge branch
 git 4. gun ozge master branch
 kontrol
 kontrol deneme OZGE Branch'i
+deneme1
